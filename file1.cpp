@@ -3,6 +3,7 @@ int main()
 {
   int a;
 
-cout<<"I am Kanchan"<<a;
+cout<<"\nI am Kanchan"<<a;
+cout<<"\nI am from Cummins";
 return 0;
 }
